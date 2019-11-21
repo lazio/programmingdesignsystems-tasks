@@ -1,8 +1,6 @@
 {
   "name": "pds",
   "projects": [
-    "tasks",
-    "help",
     "figure-and-ground"
   ]
 }
