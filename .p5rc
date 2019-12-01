@@ -1,6 +1,7 @@
 {
   "name": "pds",
   "projects": [
-    "figure-and-ground"
+    "figure-and-ground",
+    "basic-shapes",
   ]
 }
