@@ -3,5 +3,6 @@
   "projects": [
     "figure-and-ground",
     "basic-shapes",
+    "custom-shapes"
   ]
 }
