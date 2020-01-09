@@ -3,6 +3,9 @@
   "projects": [
     "figure-and-ground",
     "basic-shapes",
-    "custom-shapes"
+    "custom-shapes",
+    "procedural-shapes",
+    "procedural-shapes-random",
+    "procedural-shapes-task"
   ]
 }
