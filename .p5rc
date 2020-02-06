@@ -6,6 +6,7 @@
     "custom-shapes",
     "procedural-shapes",
     "procedural-shapes-random",
-    "procedural-shapes-task"
+    "procedural-shapes-task",
+    "color-schemes"
   ]
 }
